@@ -9,7 +9,7 @@
 ---
 
 <div align="center">
-  <img src="https://github.com/DewmikaSenarathna/Key_Tag_Detector_Circuit/blob/main/Capture.JPG" alt="Alt text" width="50%" height="auto">
+  <img src="https://github.com/PCsandaruwan/2-snap-analog-circuit/blob/main/Capture.JPG" alt="Alt text" width="50%" height="auto">
 </div>
 
 ---
